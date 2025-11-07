@@ -1,9 +1,13 @@
 GITHUB PROFILE BIO
 ===========================================================
 Author: Nanda Miftahul Khoyri
+
 Role: Meteorological Systems Engineer & Full-Stack Developer
+
 Organization: Terrindo
+
 Version: v1.0.0
+
 Date: November 2025
 
 -----------------------------------------------------------
